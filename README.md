@@ -1,4 +1,4 @@
-# Corey Hudson Programming Portfolio 2024-25
+# Corey Hudson's Programming Portfolio 2024-25
 
 ## Term 1
 
