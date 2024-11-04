@@ -3,6 +3,6 @@
 * Typing at 44WPM
 ## Term 1
 ### Calculator
-* Description+
+Description
 ![Running App](https://github.com/9710464/programmingportfolio/blob/main/images/calculator.png?raw=true)
 ## Term 2
