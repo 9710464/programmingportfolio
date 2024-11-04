@@ -6,4 +6,5 @@
 Graphics project with keypress drawing controls with the ability to save images
 ![Running App]()
 [Source Code]()
+### Calculator
 ## Term 2
