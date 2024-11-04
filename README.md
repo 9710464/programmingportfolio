@@ -9,4 +9,10 @@ Description
 ![Running App](https://github.com/9710464/programmingportfolio/blob/main/images/calculator.png?raw=true)
 
 [Source Code](https://github.com/9710464/programmingportfolio/tree/main/src/term1/CalculatorApp)
+
+### Etch-A-Sketch
+
+Description
+
+![Running App](
 ## Term 2
