@@ -4,7 +4,7 @@
 ## Term 1
 ### Calculator
 
-Description
+Working calculator with all four standard operators and additional functions
 
 ![Running App](https://github.com/9710464/programmingportfolio/blob/main/images/calculator.png?raw=true)
 
@@ -12,7 +12,7 @@ Description
 
 ### Etch-A-Sketch
 
-Description
+Working drawing application that can clear and save your drawings
 
 ![Running App](https://github.com/9710464/programmingportfolio/blob/main/images/etchsketch.png?raw=true)
 
