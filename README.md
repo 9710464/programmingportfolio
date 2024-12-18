@@ -2,6 +2,7 @@
 * [Email](mailto:9710464@graniteschools.org)
 * Projected Graduation in 2028
 * Typing at 44WPM
+* Certified in Computer Programming 1
 ## Term 1
 ### Etch-A-Sketch
 
