@@ -10,6 +10,12 @@ Working drawing application that can clear and save your drawings
 ![Running App](https://github.com/9710464/programmingportfolio/blob/main/images/etchsketch.png?raw=true)
 
 [Source Code](https://github.com/9710464/programmingportfolio/tree/main/src/term1/EtchASketch)
+
+### TempConverter
+
+Converts either fahrenheit to celsius or vice versa with a mouse slider
+
+
 ## Term 2
 ### Calculator
 
